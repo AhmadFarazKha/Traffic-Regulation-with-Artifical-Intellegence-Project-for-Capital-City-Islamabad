@@ -1,0 +1,2 @@
+# Traffic Regulation with Artifical Intellegence Project for Capital City Islamabad
+ Traffic_Regulation_with_AI: Islamabad  AI-powered project to optimize traffic flow & safety in Islamabad. Uses real-time data, predictive modeling, intelligent signal control, accident detection, & data visualization. Aims to reduce congestion, improve safety, & enhance sustainability. Leverages Python, ML libraries, & cloud platforms.
